@@ -207,5 +207,22 @@ SVM解决回归问题
 
 集成学习：随机森林
 
+### [13 集成学习与随机森林](13-集成学习与随机森林/)
 
+通过样本子集获取子样本
+
+Bagging有放回取样
+
+Out of Bag数据进行测试/验证
+
+Voting
+
+	1. Hard voting
+	1. Soft voting
+
+Ada Boosting
+
+Gradient Boosting
+
+Stacking
 
