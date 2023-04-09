@@ -168,3 +168,20 @@ Lp范数与Lp正则项的概念
  [F1-score](10-评价分类结果\04 F1-score.ipynb) 
 
  [ROC曲线](10-评价分类结果\07 ROC曲线.ipynb) 
+
+### [11 SVM](11-SVM)
+
+Hard Margin
+
+Soft Margin：相对于Hard Margin增加了容错值
+
+核函数
+
+高斯核函数(RBF)
+
+SVM解决回归问题
+
+
+
+
+
